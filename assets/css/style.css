@@ -1,0 +1,25 @@
+button, div, form, input {
+      margin: 10px;
+}
+div.item{
+	float: left;
+	width:	400px;
+	margin: 7px;
+}
+div#gifs-appear-here{
+	width: 900px;
+}
+form{
+	float: right;
+	margin-right: 30px;
+}
+button{
+	background-color: #66ffcc;
+	padding: 15px 32px;
+	font-size: 16px;
+}
+input{
+	background-color: #66ffcc;
+	padding: 15px 32px;
+	font-size: 16px;
+}
